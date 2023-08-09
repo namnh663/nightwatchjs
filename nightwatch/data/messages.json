@@ -1,0 +1,7 @@
+{
+    "LOGIN_ERROR_MSG_001": "Epic sadface: Username is required",
+    "LOGIN_ERROR_MSG_002": "Epic sadface: Password is required",
+    "LOGIN_ERROR_MSG_003": "Epic sadface: Username and password do not match any user in this service",
+    "LOGIN_ERROR_MSG_004": "Epic sadface: Sorry, this user has been locked out.",
+    "LOGIN_ERROR_MSG_005": "Epic sadface: You can only access '/inventory.html' when you are logged in."
+}
